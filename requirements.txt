@@ -4,3 +4,4 @@ python-dotenv
 pytest
 langchain-openai
 langchain-anthropic
+langchain-ollama
